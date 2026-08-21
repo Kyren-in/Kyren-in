@@ -37,15 +37,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kyren-in&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" alt="Jyotirmay's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Kyren-in&theme=radical&hide_border=true" width="49%" alt="Jyotirmay's GitHub streak"/>
+  <img src="./profile/metrics.svg" width="95%" alt="Jyotirmay's GitHub Analytics"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kyren-in&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" alt="Most used languages"/>
-</p>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
