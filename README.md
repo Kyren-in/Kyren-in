@@ -36,9 +36,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/metrics.svg" width="95%" alt="Jyotirmay's GitHub Analytics"/>
+  <img src="./profile/metrics.svg" width="85%" alt="GitHub Analytics"/>
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
