@@ -46,12 +46,11 @@
 </p>
 
 <br/>
-
-## 🎯 Current Goals
+### 🎯 Current Goals
 
 ```text
-📚 Master Data Structures & Algorithms
-💻 Build real-world projects
-🌐 Learn modern software development
-🚀 Contribute to Open Source
-📈 Improve every day
+📊 Master Data Structures & Algorithms
+💻 Build 3–5 complete real-world projects
+🌐 Learn modern Web & Software Development
+🚀 Make my first meaningful Open Source contribution
+📈 Stay consistent and improve every day
