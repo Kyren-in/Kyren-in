@@ -26,13 +26,12 @@
 
 <br/>
 
-## 🛠️ Currently Learning
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&perline=6" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,cloudflare,workers,docker,aws,mongodb,git,github,githubactions,tailwind,vscode&perline=8" alt="Tech stack icons"/>
 </p>
-
 <br/>
+
 
 ## 📊 GitHub Analytics
 
