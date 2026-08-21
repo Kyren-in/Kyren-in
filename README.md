@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm JYOTIRMAY DAS 👋</h1>
 
 <p align="center">
-  <i>Computer Science Student · Aspiring Software Developer · Lifelong Learner</i>
+  <i>CS Student · Future Software Developer · Building & Learning</i>
 </p>
 
 <p align="center">
@@ -15,28 +15,24 @@
 
 <br/>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about technology and software development
-- 🌱 Currently learning **C Programming, DSA and GitHub**
-- 💻 Exploring the world of **Software Development and Open Source**
-- 🚀 Building projects and improving my problem-solving skills step by step
-- 🎯 Goal: Become a skilled software developer and build impactful projects
-- ⚡ Always curious to learn something new
+- 🌱 Currently learning **C Programming, DSA and Git/GitHub**
+- 💻 Exploring **Software Development and Open Source**
+- 🚀 Building projects while improving my problem-solving skills
+- 🎯 Goal: Become a skilled software developer and build impactful products
+- ⚡ Always curious and eager to learn something new
+### 🛠️ Current Stack
 
-<br/>
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,cloudflare,workers,docker,aws,mongodb,git,github,githubactions,tailwind,vscode&perline=8" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,git,github,vscode&perline=6"/>
 </p>
-<br/>
 
-
-## 📊 GitHub Analytics
+### 🌱 Exploring
 
 <p align="center">
-  <img src="./profile/metrics.svg" width="85%" alt="GitHub Analytics"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,py,cloudflare,docker,aws,mongodb&perline=7"/>
 </p>
 
 ## 🐍 Contribution Snake
